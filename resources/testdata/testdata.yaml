@@ -1,0 +1,14 @@
+# Login data
+email: Ab.stopbus+1@gmail.com
+valid_password: Password123!
+invalid_password: Password456!
+
+# Register data
+registerEmail: baifernspr15@gmail.com
+firstName: suparat
+lastName: tapthong
+phoneNumber: 0899999999
+newPassword: Password123!
+confirmPassword: Password123!
+
+
